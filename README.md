@@ -1,4 +1,3 @@
 - 👋 Hi, I’m Youssef Megahed
 - 👀 I’m interested in Software Development using Python, C/C++
-- 🌱 I’m currently learning Cloud Computing
 - 📫 Reach me on email: youssefosama@aucegypt.edu
